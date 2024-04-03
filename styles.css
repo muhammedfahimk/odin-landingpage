@@ -1,0 +1,124 @@
+.header-main{
+    color: white;
+    display: flex;
+    
+    
+    
+
+}
+.top-left{
+    display: flex;
+    background: #1F2937;
+    height: 80px;
+    flex: 1;
+    gap: 8px;
+    align-items: center;
+    
+}
+
+.top-right{
+    display: flex;
+    background: #1F2937;
+    height: 80px;
+    flex: 1;
+    gap: 25px;
+    align-items: center;
+    padding-left: 300px;
+
+}
+
+.second-main{
+    display: flex;
+    background: #1F2937;
+    height: auto;
+    width: auto;
+    align-items: center;
+
+}
+.second-left{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    flex:1;
+}
+.second-right{
+    color: white;
+    flex: 1;
+    align-items: center;
+    margin-left: 40px;
+    padding: 20px;
+}
+button{
+    color: aliceblue;
+    background-color: rgb(92, 141, 233);
+}
+
+
+    
+.sub{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.sub .Gallery img{
+     
+    border: 2px solid rgb(71, 189, 224);
+    
+}
+.sub .Gallery .aa{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.history{
+    color: #1F2937;
+    text-align: center;
+    background-color: #f3f4f5;
+    height: 140px;
+    padding-top: 30px;
+}
+
+
+.foot{
+    display: flex;
+    background: #ffffff;
+    height: 80px;
+    border-radius: 50px;
+    align-items: center;
+    padding: 50px;
+    padding-top: 30px;
+    justify-content: space-around;
+}
+.foot-right{
+    background-color: deepskyblue;
+   flex: 1 0 0;
+   align-items: center;
+   width: auto;
+   height: 90px;
+   
+   
+
+}
+.foot-left{
+    background-color: deepskyblue;
+   flex: 1;
+   align-items: center;
+   width: auto;
+   height: 90px;
+   
+}
+
+.foot-right button{
+    margin-top: 50px;
+    border-radius: 10px;
+    background-color: black;
+}
+.footer{
+    background-color: #1f2937;
+    color:white;
+    text-align: center;
+    height: 30px;
+
+}
+
+.footer p{
+    padding:8px;
+}
